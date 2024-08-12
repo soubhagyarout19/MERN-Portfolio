@@ -14,6 +14,7 @@ function App() {
       <Projects/>
       </BrowserRouter>
       {/* <ProjectCard/> */}
+      Hello
       <Footer/>
     </div>
   );
